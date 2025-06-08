@@ -1,0 +1,101 @@
+Event_Name,Social_Media_Likes,Social_Media_Shares,Social_Media_Comments,Registrations,Event_Type,Event_Date,Venue,Target_Audience,Weather_Condition,Predicted_Attendance
+Event_1,1492,790,102,262,Seminar,2024-01-01,Hall,General Public,Rainy,634
+Event_2,763,526,200,252,Workshop,2024-01-08,Hall,General Public,Stormy,376
+Event_3,1576,712,193,301,Competition,2024-01-15,Auditorium,Faculty,Rainy,544
+Event_4,1503,367,106,278,Seminar,2024-01-22,Hall,General Public,Clear,605
+Event_5,504,934,88,213,Workshop,2024-01-29,Auditorium,General Public,Rainy,537
+Event_6,1626,676,158,276,Seminar,2024-02-05,Hall,Students,Cloudy,577
+Event_7,1719,516,230,196,Workshop,2024-02-12,Open Ground,Faculty,Cloudy,496
+Event_8,1273,267,91,69,Workshop,2024-02-19,Open Ground,Faculty,Stormy,302
+Event_9,1376,941,235,490,Workshop,2024-02-26,Online,Faculty,Clear,885
+Event_10,1491,142,472,451,Competition,2024-03-04,Open Ground,General Public,Cloudy,822
+Event_11,1383,655,447,96,Competition,2024-03-11,Open Ground,General Public,Cloudy,523
+Event_12,1873,384,272,282,Seminar,2024-03-18,Open Ground,General Public,Clear,706
+Event_13,546,496,171,354,Workshop,2024-03-25,Auditorium,Students,Rainy,607
+Event_14,1366,111,182,63,Workshop,2024-04-01,Open Ground,General Public,Rainy,312
+Event_15,1322,706,212,192,Competition,2024-04-08,Open Ground,Students,Stormy,511
+Event_16,1435,401,264,464,Workshop,2024-04-15,Online,Faculty,Rainy,745
+Event_17,1155,997,270,50,Competition,2024-04-22,Open Ground,General Public,Clear,443
+Event_18,768,352,284,422,Workshop,2024-04-29,Open Ground,Students,Cloudy,746
+Event_19,869,598,380,103,Seminar,2024-05-06,Hall,Students,Rainy,403
+Event_20,1135,853,195,423,Workshop,2024-05-13,Online,General Public,Stormy,778
+Event_21,1629,134,288,308,Workshop,2024-05-20,Online,Faculty,Rainy,471
+Event_22,1156,826,125,193,Lecture,2024-05-27,Online,Faculty,Clear,545
+Event_23,619,948,58,490,Competition,2024-06-03,Online,Faculty,Stormy,871
+Event_24,1330,189,123,61,Workshop,2024-06-10,Online,Students,Rainy,222
+Event_25,1581,875,491,379,Workshop,2024-06-17,Online,Students,Stormy,1018
+Event_26,1869,704,450,273,Lecture,2024-06-24,Auditorium,Students,Clear,744
+Event_27,1240,701,302,321,Lecture,2024-07-01,Open Ground,Students,Cloudy,547
+Event_28,1997,517,279,407,Competition,2024-07-08,Online,Faculty,Clear,774
+Event_29,616,214,56,457,Lecture,2024-07-15,Open Ground,General Public,Clear,644
+Event_30,1290,716,223,205,Seminar,2024-07-22,Open Ground,Students,Clear,644
+Event_31,1650,295,190,422,Lecture,2024-07-29,Auditorium,Students,Clear,738
+Event_32,1916,925,217,57,Seminar,2024-08-05,Online,Faculty,Cloudy,577
+Event_33,1512,600,219,171,Competition,2024-08-12,Hall,General Public,Cloudy,449
+Event_34,1581,725,442,397,Competition,2024-08-19,Auditorium,General Public,Stormy,798
+Event_35,1133,592,483,213,Competition,2024-08-26,Hall,Faculty,Rainy,505
+Event_36,1012,174,332,139,Competition,2024-09-02,Open Ground,Faculty,Cloudy,344
+Event_37,1301,512,171,185,Competition,2024-09-09,Open Ground,General Public,Cloudy,506
+Event_38,1619,475,243,235,Seminar,2024-09-16,Auditorium,Students,Rainy,575
+Event_39,1641,519,54,365,Seminar,2024-09-23,Auditorium,General Public,Cloudy,692
+Event_40,1059,828,78,227,Competition,2024-09-30,Hall,Faculty,Clear,475
+Event_41,987,376,214,77,Lecture,2024-10-07,Online,Students,Clear,271
+Event_42,1760,860,471,269,Workshop,2024-10-14,Hall,Students,Rainy,768
+Event_43,1396,775,388,406,Competition,2024-10-21,Auditorium,Faculty,Stormy,786
+Event_44,1795,493,185,90,Lecture,2024-10-28,Hall,Faculty,Stormy,488
+Event_45,1712,968,414,277,Workshop,2024-11-04,Auditorium,Faculty,Rainy,734
+Event_46,1203,556,370,241,Competition,2024-11-11,Hall,General Public,Rainy,558
+Event_47,1970,291,391,460,Competition,2024-11-18,Auditorium,General Public,Clear,853
+Event_48,1080,838,194,496,Seminar,2024-11-25,Auditorium,Students,Stormy,810
+Event_49,1289,788,376,194,Workshop,2024-12-02,Auditorium,Faculty,Cloudy,531
+Event_50,1360,198,266,250,Workshop,2024-12-09,Online,Students,Clear,450
+Event_51,746,647,350,466,Lecture,2024-12-16,Hall,Students,Rainy,801
+Event_52,1599,195,181,261,Seminar,2024-12-23,Hall,Students,Stormy,446
+Event_53,653,763,341,269,Seminar,2024-12-30,Hall,Students,Cloudy,659
+Event_54,1958,762,119,289,Seminar,2025-01-06,Auditorium,Faculty,Cloudy,638
+Event_55,1496,289,301,462,Seminar,2025-01-13,Hall,Students,Clear,790
+Event_56,1609,835,464,446,Workshop,2025-01-20,Hall,Faculty,Stormy,881
+Event_57,1196,136,324,95,Workshop,2025-01-27,Auditorium,Faculty,Stormy,293
+Event_58,1808,879,494,84,Competition,2025-02-03,Open Ground,General Public,Rainy,601
+Event_59,1743,468,413,302,Competition,2025-02-10,Auditorium,Faculty,Stormy,746
+Event_60,1592,794,231,439,Seminar,2025-02-17,Hall,General Public,Stormy,813
+Event_61,1570,624,216,131,Seminar,2025-02-24,Auditorium,Faculty,Clear,474
+Event_62,1508,378,140,420,Seminar,2025-03-03,Open Ground,Faculty,Stormy,728
+Event_63,593,316,251,305,Competition,2025-03-10,Auditorium,Faculty,Cloudy,544
+Event_64,1457,966,395,246,Lecture,2025-03-17,Hall,General Public,Clear,701
+Event_65,1511,972,68,352,Lecture,2025-03-24,Open Ground,General Public,Clear,695
+Event_66,952,897,88,458,Competition,2025-03-31,Online,Students,Rainy,763
+Event_67,1727,372,175,499,Competition,2025-04-07,Hall,General Public,Stormy,789
+Event_68,1411,980,222,59,Competition,2025-04-14,Open Ground,General Public,Rainy,478
+Event_69,717,161,190,361,Competition,2025-04-21,Open Ground,General Public,Cloudy,462
+Event_70,973,695,291,335,Competition,2025-04-28,Online,General Public,Clear,672
+Event_71,931,979,269,291,Competition,2025-05-05,Auditorium,Students,Clear,624
+Event_72,840,828,175,300,Seminar,2025-05-12,Auditorium,General Public,Clear,647
+Event_73,1050,441,107,414,Seminar,2025-05-19,Hall,Faculty,Cloudy,605
+Event_74,1812,496,197,54,Seminar,2025-05-26,Online,Faculty,Cloudy,360
+Event_75,1777,798,366,168,Seminar,2025-06-02,Auditorium,General Public,Rainy,637
+Event_76,856,118,432,338,Competition,2025-06-09,Online,General Public,Rainy,577
+Event_77,522,276,410,423,Lecture,2025-06-16,Auditorium,Faculty,Rainy,767
+Event_78,1021,711,472,114,Workshop,2025-06-23,Open Ground,Faculty,Stormy,418
+Event_79,1623,495,50,195,Competition,2025-06-30,Auditorium,Students,Clear,476
+Event_80,1301,544,436,273,Workshop,2025-07-07,Online,Faculty,Clear,699
+Event_81,1703,332,397,288,Lecture,2025-07-14,Open Ground,Faculty,Rainy,614
+Event_82,1746,175,239,226,Seminar,2025-07-21,Open Ground,General Public,Clear,461
+Event_83,1261,364,240,316,Lecture,2025-07-28,Open Ground,Faculty,Rainy,543
+Event_84,941,554,418,390,Competition,2025-08-04,Online,Students,Stormy,639
+Event_85,1268,895,458,331,Seminar,2025-08-11,Hall,Faculty,Stormy,841
+Event_86,1515,817,361,112,Competition,2025-08-18,Hall,General Public,Cloudy,518
+Event_87,1848,834,466,266,Seminar,2025-08-25,Hall,General Public,Stormy,734
+Event_88,1015,483,471,391,Workshop,2025-09-01,Online,Faculty,Rainy,624
+Event_89,1539,663,166,364,Workshop,2025-09-08,Open Ground,General Public,Stormy,628
+Event_90,1291,950,183,332,Workshop,2025-09-15,Hall,Students,Cloudy,779
+Event_91,835,605,107,226,Lecture,2025-09-22,Online,Students,Clear,477
+Event_92,757,466,93,466,Competition,2025-09-29,Hall,Faculty,Rainy,721
+Event_93,996,243,222,147,Lecture,2025-10-06,Auditorium,Faculty,Clear,413
+Event_94,1395,984,209,154,Workshop,2025-10-13,Hall,Faculty,Cloudy,502
+Event_95,659,168,222,148,Competition,2025-10-20,Hall,General Public,Cloudy,435
+Event_96,1998,198,366,434,Workshop,2025-10-27,Open Ground,Students,Cloudy,880
+Event_97,1351,495,352,454,Lecture,2025-11-03,Online,Students,Clear,765
+Event_98,1189,124,198,360,Lecture,2025-11-10,Open Ground,General Public,Clear,384
+Event_99,879,990,129,55,Lecture,2025-11-17,Open Ground,Students,Clear,361
+Event_100,1456,568,423,246,Workshop,2025-11-24,Open Ground,Faculty,Clear,644
